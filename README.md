@@ -1,5 +1,5 @@
 # Website Commenter
-A Chrome Extension that allows users to comment and view other user's comments on any webpage
+Have you ever browsed a website and wondered what other people thought about it, but scrolled to the bottom, disappointed to find no comments section available? If that's the case, this extension is for curious minds like yourself! This extension provides a third-party commenting service that will let you browse other people's comments on a website and post comments of your own even if the website you're browsing doesn't have a built-in commenting service. The Website Commenter uses a secure database (Google Firebase), so you can be sure that your opinions are secure. Happy Browsing!
 
 [Chrome Store](https://chrome.google.com/webstore/detail/website-commenter/mgkgeeckikocihgfhhecnjebdcdphomb)
 
